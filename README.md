@@ -1,4 +1,4 @@
-# DiceRollSimulator
+# Dice Rolling Simulator
 Simulation of Rolling a Dice
 
 This Python Script will simulate the rolling of the following dice:
